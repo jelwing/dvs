@@ -17,7 +17,7 @@ A versioned file's metadata file contains a hash of the versioned file's content
 This hash is used to both track the most current version of the file and create the path for a versioned file's copy in the storage directory.
 
 ## Tutorial
-See a detailed tutorial [here](https://github.com/A2-ai/dvs_demo/tree/main).
+See a detailed tutorial [here](https://github.com/jelwing/dvs_demo).
 
 ## Example Workflow
 ### To add files to dvs:
